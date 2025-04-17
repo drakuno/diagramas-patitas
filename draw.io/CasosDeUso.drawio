@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
   <diagram name="Page-1" id="0mtHqHfYrwTecAeKPZze">
     <mxGraphModel dx="1556" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,7 +81,10 @@
         <mxCell id="OPm2PPB3l00t3WLVtLND-21" value="Bloquear / desbloquear usuarios" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="406" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OPm2PPB3l00t3WLVtLND-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="OPm2PPB3l00t3WLVtLND-26" target="OPm2PPB3l00t3WLVtLND-27" edge="1">
+        <mxCell id="OPm2PPB3l00t3WLVtLND-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673A6;" parent="1" source="OPm2PPB3l00t3WLVtLND-26" target="OPm2PPB3l00t3WLVtLND-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki83zNSYa97wkHr0lXjK-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9673A6;" edge="1" parent="1" source="OPm2PPB3l00t3WLVtLND-26" target="ki83zNSYa97wkHr0lXjK-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="Robot" id="OPm2PPB3l00t3WLVtLND-26">
@@ -92,14 +95,17 @@
         <mxCell id="OPm2PPB3l00t3WLVtLND-27" value="Mantener reporte de finanzas actualizado" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HHcht3lgWcEEP18J5v_9-1" value="Ofrecer datos de contacto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HHcht3lgWcEEP18J5v_9-1" value="Ofrecer datos de contacto" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HHcht3lgWcEEP18J5v_9-4" value="&lt;div&gt;Comentar publicación&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HHcht3lgWcEEP18J5v_9-4" value="&lt;div&gt;Comentar publicación&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HHcht3lgWcEEP18J5v_9-5" value="Ingresar datos de contacto propios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HHcht3lgWcEEP18J5v_9-5" value="Ingresar datos de contacto propios" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ki83zNSYa97wkHr0lXjK-1" value="Monitorear ubicación de usuarios activos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="160" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
