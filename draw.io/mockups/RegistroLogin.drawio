@@ -1,9 +1,65 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
   <diagram name="Page-1" id="ibmDFZ82ZpprkkH4J8ru">
-    <mxGraphModel>
+    <mxGraphModel dx="2406" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry width="480" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-21" value="" style="rounded=1;whiteSpace=wrap;html=1;textShadow=0;labelBorderColor=none;shadow=1;perimeterSpacing=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-22" value="Ingresar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-24" value="Número de celular" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-25" value="00 00 00 00 00" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#CDCDCD;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oR5H9QgqDNqwV4JY2G0A-26" target="oR5H9QgqDNqwV4JY2G0A-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-26" value="Continuar" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="165" y="590" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-48" value="&lt;div&gt;&lt;font&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;¿Número es valido?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fillColor=default;strokeColor=#666666;fontColor=#ffffff;strokeWidth=1;shadow=0;dashed=0;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="560" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#00FFFF;strokeColor=#00FFFF;" edge="1" parent="1" source="oR5H9QgqDNqwV4JY2G0A-48" target="oR5H9QgqDNqwV4JY2G0A-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-57" value="&lt;div&gt;No&lt;/div&gt;&lt;div&gt;Mostrar error&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oR5H9QgqDNqwV4JY2G0A-50">
+          <mxGeometry x="-0.456" y="3" relative="1" as="geometry">
+            <mxPoint x="-43" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-52" value="Por favor revise que su número sea el correcto" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;labelBackgroundColor=none;labelBorderColor=#00FFFF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#00FFFF;" edge="1" parent="1" source="oR5H9QgqDNqwV4JY2G0A-23" target="oR5H9QgqDNqwV4JY2G0A-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-80" y="260" />
+              <mxPoint x="-80" y="611" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR5H9QgqDNqwV4JY2G0A-56" value="&lt;div&gt;Desactivar botón cuando&lt;/div&gt;&lt;div&gt;el campo esta vacío&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oR5H9QgqDNqwV4JY2G0A-53">
+          <mxGeometry x="-0.0855" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
