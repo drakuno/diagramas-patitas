@@ -270,7 +270,7 @@
         <mxCell id="1x_nCAr4HbJ1y6fn0Rfu-20" value="&lt;div&gt;Advertencia&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2130" y="-270" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1x_nCAr4HbJ1y6fn0Rfu-24" value="Verificar" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="1x_nCAr4HbJ1y6fn0Rfu-24" value="Cancelar" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#000000;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2205" y="150" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1x_nCAr4HbJ1y6fn0Rfu-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#FF8000,#EDEDED);" edge="1" parent="1" source="1x_nCAr4HbJ1y6fn0Rfu-16" target="1x_nCAr4HbJ1y6fn0Rfu-18">
@@ -307,6 +307,9 @@
         </mxCell>
         <mxCell id="1x_nCAr4HbJ1y6fn0Rfu-60" value="&lt;div&gt;Tu número (&lt;span style=&quot;color: rgb(255, 0, 255);&quot;&gt;&lt;b&gt;{{signup.phone}}&lt;/b&gt;&lt;/span&gt;) ya estaba registrado en Patitas bajo otro nombre. Si deseas continuar como &lt;b&gt;&quot;&lt;span style=&quot;color: rgb(255, 0, 255);&quot;&gt;{{signup.name}}&lt;/span&gt;&quot;&lt;/b&gt; el antiguo registro será desactivado permanentemente.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Elige &lt;b&gt;&quot;Continuar&quot;&lt;/b&gt; si eres dueñ@ del número &lt;b&gt;&lt;span style=&quot;color: rgb(255, 0, 255);&quot;&gt;{{signup.phone}}&lt;/span&gt;&lt;/b&gt; y no reconoces el registro antiguo a nombre de &lt;b&gt;&lt;span style=&quot;color: rgb(255, 0, 255);&quot;&gt;{{existing.name.obfuscated()#A***}}&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Si&lt;b&gt; cancelas&lt;/b&gt;, permanecerás como &lt;b&gt;usuario anónimo&lt;/b&gt;, y podrás reiniciar el proceso de ingreso.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2110" y="-130" width="340" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1x_nCAr4HbJ1y6fn0Rfu-61" value="&lt;div&gt;Continuar&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2205" y="100" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
