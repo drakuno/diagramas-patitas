@@ -200,8 +200,8 @@
         <mxCell id="O3qP3TXHj2-zu9f2CcBb-84" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.pageControl;fillColor=#999999;strokeColor=#ddeeff;" vertex="1" parent="O3qP3TXHj2-zu9f2CcBb-78">
           <mxGeometry x="74.70999999999998" y="66.38666666666671" width="35.576923076923066" height="23.611111111111118" as="geometry" />
         </mxCell>
-        <mxCell id="O3qP3TXHj2-zu9f2CcBb-135" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=image;pointerEvents=1;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/travello-basic-ui-1/64/More-128.png;" vertex="1" parent="O3qP3TXHj2-zu9f2CcBb-78">
-          <mxGeometry x="156.39999999999998" y="3.5" width="24.6" height="25" as="geometry" />
+        <mxCell id="O3qP3TXHj2-zu9f2CcBb-135" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=image;pointerEvents=1;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/travello-basic-ui-1/64/More-128.png;" vertex="1" parent="O3qP3TXHj2-zu9f2CcBb-78">
+          <mxGeometry x="166" y="3.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="O3qP3TXHj2-zu9f2CcBb-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O3qP3TXHj2-zu9f2CcBb-47" target="O3qP3TXHj2-zu9f2CcBb-74">
           <mxGeometry relative="1" as="geometry" />
