@@ -16,7 +16,7 @@
         <mxCell id="O3qP3TXHj2-zu9f2CcBb-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
           <mxGeometry x="50" y="50" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="O3qP3TXHj2-zu9f2CcBb-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.loading_circle_2;pointerEvents=1" vertex="1" parent="1">
+        <mxCell id="O3qP3TXHj2-zu9f2CcBb-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.loading_circle_1;pointerEvents=1" vertex="1" parent="1">
           <mxGeometry x="130.5" y="215" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
