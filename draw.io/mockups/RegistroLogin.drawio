@@ -419,13 +419,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fnedPNZMZLycqGPqlTga-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;" parent="1" source="fnedPNZMZLycqGPqlTga-27" target="fnedPNZMZLycqGPqlTga-25" edge="1">
+        <mxCell id="fnedPNZMZLycqGPqlTga-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;" parent="1" source="fnedPNZMZLycqGPqlTga-27" target="MnMRg8VJXlOmJcfWs47Q-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3140" y="400" />
-              <mxPoint x="2320" y="400" />
-              <mxPoint x="2320" y="520" />
-              <mxPoint x="2200" y="520" />
+              <mxPoint x="3140" y="1380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -451,11 +448,11 @@
         <mxCell id="MnMRg8VJXlOmJcfWs47Q-1" value="¿Teléfono ya registrado?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="360" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MnMRg8VJXlOmJcfWs47Q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;" edge="1" parent="1" source="MnMRg8VJXlOmJcfWs47Q-3" target="fnedPNZMZLycqGPqlTga-25">
+        <mxCell id="MnMRg8VJXlOmJcfWs47Q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;entryX=0.178;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MnMRg8VJXlOmJcfWs47Q-3" target="fnedPNZMZLycqGPqlTga-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MnMRg8VJXlOmJcfWs47Q-3" value="&lt;div&gt;- Crear cuenta&lt;/div&gt;&lt;div&gt;- Agregar notificación&lt;/div&gt;&lt;div&gt;registro de veterinario&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="1860" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
