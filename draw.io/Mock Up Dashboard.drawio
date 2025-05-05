@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Página-1" id="oul2yFfDa0px8gUL0yy4">
-    <mxGraphModel dx="815" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WsvTsMm_HVevnzBrwwZT-1" value="" style="whiteSpace=wrap;html=1;fillColor=light-dark(#F5F5F5,#000000);" vertex="1" parent="1">
+        <mxCell id="WsvTsMm_HVevnzBrwwZT-1" value="" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#0E0E0E);" parent="1" vertex="1">
           <mxGeometry x="320.15" y="957" width="190" height="324" as="geometry" />
         </mxCell>
         <mxCell id="O3qP3TXHj2-zu9f2CcBb-4" value="" style="whiteSpace=wrap;html=1;fillColor=light-dark(#F5F5F5,#FFFFFF);strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
@@ -389,41 +389,6 @@
         </mxCell>
         <mxCell id="O3qP3TXHj2-zu9f2CcBb-168" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="313" y="922" width="200" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="WsvTsMm_HVevnzBrwwZT-2" value="" style="swimlane;strokeColor=#999999;swimlaneFillColor=#FFFFFF;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="950" width="190" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="WsvTsMm_HVevnzBrwwZT-3" value="Reporte de maltrato" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=inherit;fontSize=17;" vertex="1" parent="WsvTsMm_HVevnzBrwwZT-2">
-          <mxGeometry width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WsvTsMm_HVevnzBrwwZT-4" value="" style="resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="WsvTsMm_HVevnzBrwwZT-3">
-          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
-            <mxPoint x="8" y="-7.5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WsvTsMm_HVevnzBrwwZT-5" value="Perdido" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=none;fontColor=inherit;fontSize=17;" vertex="1" parent="WsvTsMm_HVevnzBrwwZT-2">
-          <mxGeometry y="30" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WsvTsMm_HVevnzBrwwZT-6" value="" style="resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="WsvTsMm_HVevnzBrwwZT-5">
-          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
-            <mxPoint x="8" y="-7.5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WsvTsMm_HVevnzBrwwZT-7" value="Encontrado" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=none;fontColor=#008CFF;fontSize=17;" vertex="1" parent="WsvTsMm_HVevnzBrwwZT-2">
-          <mxGeometry y="60" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WsvTsMm_HVevnzBrwwZT-8" value="" style="shape=mxgraph.mockup.forms.checkbox;resizable=0;fillColor=#AAAAAA;gradientColor=#666666;strokeColor=#444444;html=1;" vertex="1" parent="WsvTsMm_HVevnzBrwwZT-7">
-          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
-            <mxPoint x="8" y="-7.5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WsvTsMm_HVevnzBrwwZT-9" value="Emergencia" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=inherit;fontSize=17;" vertex="1" parent="WsvTsMm_HVevnzBrwwZT-2">
-          <mxGeometry y="90" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WsvTsMm_HVevnzBrwwZT-10" value="" style="resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="WsvTsMm_HVevnzBrwwZT-9">
-          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
-            <mxPoint x="8" y="-7.5" as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
