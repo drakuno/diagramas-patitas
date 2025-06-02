@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-23" value="User" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;columnLines=1;swimlaneFillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="280" height="150" as="geometry">
+          <mxGeometry x="40" y="80" width="280" height="180" as="geometry">
             <mxRectangle x="40" y="80" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -140,6 +140,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5XehDnFdNv39KtO0cfiL-6" value="sessionId VARCHAR(100) DEFAULT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="5XehDnFdNv39KtO0cfiL-4">
+          <mxGeometry x="30" width="250" height="30" as="geometry">
+            <mxRectangle width="250" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XehDnFdNv39KtO0cfiL-70" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="C-vyLk0tnHw3VtMMgP7b-23">
+          <mxGeometry y="150" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XehDnFdNv39KtO0cfiL-71" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="5XehDnFdNv39KtO0cfiL-70">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XehDnFdNv39KtO0cfiL-72" value="active BOOLEAN DEFAULT TRUE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="5XehDnFdNv39KtO0cfiL-70">
           <mxGeometry x="30" width="250" height="30" as="geometry">
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
